@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1550023064 source:e:\codeblocks\vishnu\nptel\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1550024367 source:e:\codeblocks\vishnu\nptel\prg1.c
+	<stdio.h>
+
